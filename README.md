@@ -43,6 +43,9 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![EX 4 2 SAAJID](https://github.com/Confusion7/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/141727149/eb224ecc-f32a-4ba5-9dbe-f6a167ad302f)
+
+
 ## RESULT:
 Thus, the cut section for solid model is created.
 
